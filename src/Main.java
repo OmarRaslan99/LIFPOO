@@ -12,6 +12,7 @@ import modele.plateau.Jeu;
 public class Main {
     public static void main(String[] args) {
         // test github Omar !
+        // test 2 github Omar
         Jeu jeu = new Jeu();
         
         VueControleurGyromite vc = new VueControleurGyromite(jeu);
